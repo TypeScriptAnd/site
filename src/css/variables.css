@@ -1,0 +1,14 @@
+:root {
+  /* Typography */
+  --font-family-body: Arial, sans-serif;
+  --font-size-base: 16px;
+  --font-line-height-base: 1.14;
+
+  /* Color Palette */
+  --color-primary: #294e80;
+  --color-white: #fff;
+  --color-bg: #eee;
+
+  /* Spacing */
+  --spacing-unit: 8px;
+}

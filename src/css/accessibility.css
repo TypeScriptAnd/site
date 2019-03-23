@@ -1,0 +1,4 @@
+/* Hide for display but allow screen readers */
+.sr {
+  visibility: hidden;
+}
