@@ -1,4 +1,4 @@
-# And (&) TypeScript
+# TypeScript & (And)
 
 tbd
 
