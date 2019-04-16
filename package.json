@@ -1,5 +1,5 @@
 {
-  "name": "andtypescript",
+  "name": "typescriptand",
   "version": "1.0.0",
   "description": "",
   "main": "index.html",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andtypescript/site.git"
+    "url": "git+https://github.com/TypeScriptAnd/site.git"
   },
   "keywords": [
     "typescript",
@@ -18,9 +18,9 @@
   "author": "Kamran Ayub",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/andtypescript/site/issues"
+    "url": "https://github.com/TypeScriptAnd/site/issues"
   },
-  "homepage": "https://github.com/andtypescript/site#readme",
+  "homepage": "https://github.com/TypeScriptAnd/site#readme",
   "devDependencies": {
     "autoprefixer": "^9.5.0",
     "parcel-bundler": "^1.12.3",
